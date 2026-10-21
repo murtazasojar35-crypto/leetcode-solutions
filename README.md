@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/murtazasojar35-crypto/leetcode-solutions/tree/master/0268-missing-number) |
+| [2235-add-two-integers](https://github.com/murtazasojar35-crypto/leetcode-solutions/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
